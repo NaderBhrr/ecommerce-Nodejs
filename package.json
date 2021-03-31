@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/NaderBhrr/ecommerce-Nodejs/issues"
   },
-  "homepage": "https://github.com/NaderBhrr/ecommerce-Nodejs#readme"
+  "homepage": "https://github.com/NaderBhrr/ecommerce-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
